@@ -32,7 +32,7 @@ Mi configuración personal de tmux.
 * `PREFIX + l`        --> Switch a la última ventana
 * `PREFIX + w`        --> Abre una ventana con las sesiones y ventanas abiertas
     * `t` --> Selecciona
-    * `X` --> Kil
+    * `X` --> Kill
 
 ## SESIONES
 * `PREFIX + :new`                 --> Crea nueva sesion
@@ -40,7 +40,7 @@ Mi configuración personal de tmux.
 
 * `PREFIX + s`        --> Lista de sesiones
     * `t` --> Selecciona
-    * `X` --> Kil
+    * `X` --> Kill
 * `PREFIX + $`        --> Cambia el nombre de la sesión
 * `PREFIX + (`        --> Cambia hacia la anterior sesión
 * `PREFIX + )`        --> Cambia hacia la siguiente sesión
