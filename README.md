@@ -29,7 +29,6 @@ Mi configuración personal de tmux.
 * `PREFIX + n`        --> Abre la siguiente ventana
 * `PREFIX + p`        --> Abre la anterior ventana
 * `PREFIX + &`        --> Cerrar ventana
-* `PREFIX + l`        --> Switch a la última ventana
 * `PREFIX + w`        --> Abre una ventana con las sesiones y ventanas abiertas
     * `t` --> Selecciona
     * `X` --> Kill
@@ -63,6 +62,10 @@ Mi configuración personal de tmux.
 * `PREFIX + q + 2`    --> Mueve al panel 2
 * `PREFIX + m`        --> Maximiza un panel
 * `PREFIX + !`        --> Convierte el panel en ventana
+* `PREFIX + {`        --> Mueve el panel hacia la izquierda
+* `PREFIX + }`        --> Mueve el panel hacia la derecha
+* `PREFIX + M`        --> Marca un panel para juntarlo en un futuro
+* `PREFIX + J`        --> Junta un panel en una ventana
 
 ## Ayuda
 * `PREFIX + ?`        --> Muestra ayuda de Tmux
