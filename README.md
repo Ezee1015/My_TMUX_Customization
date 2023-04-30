@@ -66,6 +66,7 @@ Mi configuración personal de tmux.
 * `PREFIX + }`        --> Mueve el panel hacia la derecha
 * `PREFIX + M`        --> Marca un panel para juntarlo en un futuro
 * `PREFIX + J`        --> Junta un panel en una ventana
+* `PREFIX + espacio`  --> Cambia de layout de los paneles
 
 ## Ayuda
 * `PREFIX + ?`        --> Muestra ayuda de Tmux
