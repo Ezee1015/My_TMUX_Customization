@@ -53,6 +53,8 @@ Mi configuración personal de tmux.
 * `Ctrl + c`          --> Sale del modo copiar/scroll
 
 ## PANELES
+* `PREFIX + V`        --> Crea un panel vertical
+* `PREFIX + H`        --> Crea un panel horizontal
 * `PREFIX + h`        --> Agranda el panel hacia la izquierda
 * `PREFIX + j`        --> Agranda el panel hacia abajo
 * `PREFIX + k`        --> Agranda el panel hacia arriba
