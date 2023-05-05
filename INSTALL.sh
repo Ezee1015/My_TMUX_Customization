@@ -6,7 +6,7 @@ function INSTALAR {
     sudo pacman -S tmux git
     sudo zypper install tmux git
 
-    cp -r config/tmux.conf /.tmux.conf
+    cp -r config/tmux.conf ~/.tmux.conf
     git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
     echo ""
