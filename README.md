@@ -4,9 +4,9 @@ Mi configuración personal de tmux.
 # Comandos
 
 ## TERMINAL
-* `tmux new -S nombreSesion`    --> Crea una nueva sesion
+* `tmux new -S nombreSesion`    --> Crea una nueva sesión
 * `tmux ls`                     --> Lista de sesiones creadas
-* `tmux attach -t nombreSesion` --> Ingresa en la sesion
+* `tmux attach -t nombreSesion` --> Ingresa en la sesión
 * `tmux detach`                 --> Sale de la sesión
 
 # BASICOS
@@ -35,8 +35,8 @@ Mi configuración personal de tmux.
 * `PREFIX + :swap-window -t 1` --> Intercambia la ventana actual con la ventana 1
 
 ## SESIONES
-* `PREFIX + :new`                 --> Crea nueva sesion
-* `PREFIX + :new -s nombreSesion` --> Crea nueva sesion con nombrea
+* `PREFIX + :new`                 --> Crea nueva sesión
+* `PREFIX + :new -s nombreSesion` --> Crea nueva sesión con nombre
 
 * `PREFIX + s`        --> Lista de sesiones
     * `t` --> Selecciona
@@ -44,7 +44,7 @@ Mi configuración personal de tmux.
 * `PREFIX + $`        --> Cambia el nombre de la sesión
 * `PREFIX + (`        --> Cambia hacia la anterior sesión
 * `PREFIX + )`        --> Cambia hacia la siguiente sesión
-* `PREFIX + d`        --> Sale de la sesion (tmux detach)
+* `PREFIX + d`        --> Sale de la sesión (tmux detach)
 
 ## MODO COPIAR
 * `PREFIX + [`        --> Permite hacer scroll por la terminal y copiar texto
