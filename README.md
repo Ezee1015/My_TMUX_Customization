@@ -32,6 +32,7 @@ Mi configuración personal de tmux.
 * `PREFIX + w`        --> Abre una ventana con las sesiones y ventanas abiertas
     * `t` --> Selecciona
     * `X` --> Kill
+* `PREFIX + :swap-window -t 1` --> Intercambia la ventana actual con la ventana 1
 
 ## SESIONES
 * `PREFIX + :new`                 --> Crea nueva sesion
