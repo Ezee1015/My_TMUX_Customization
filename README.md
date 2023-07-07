@@ -15,6 +15,7 @@ Mi configuración personal de tmux.
 * `PREFIX + V`        --> Divide verticalmente
 * `PREFIX + r`        --> Recarga configuración de tmux
 * `PREFIX + :`        --> Accede a la linea de comandos de tmux
+* `PREFIX + l`        --> Limpia la terminal (como con `clear` o `Ctrl+l`)
 
 ## PLUGINS
 * `PREFIX + I`        --> Instala Plugins
