@@ -48,7 +48,13 @@ Mi configuración personal de tmux.
 * `PREFIX + d`        --> Sale de la sesión (tmux detach)
 
 ## MODO COPIAR
-* `PREFIX + [`        --> Permite hacer scroll por la terminal y copiar texto
+* `PREFIX + [`        --> Permite hacer scroll por la terminal y copiar texto (Modo copiar)
+    * `v`             --> Modo seleccionar
+    * `Shift + v`     --> Modo seleccionar linea/s
+    * `Ctrl + v`      --> Modo seleccionar región rectangular
+    * `y`             --> Copiar
+    * `Ctrl + c`      --> Sale del Modo Copiar
+* `PREFIX + ]`        --> Pega lo copiado dentro del modo copiar
 * `h/k/j/l`           --> Baja/Sube por la pantalla
 * `K/J`               --> Baja/Sube por la pantalla con el cursor centrado
 * `D/U`               --> Baja/Sube por la pantalla (media pantalla a la vez)
