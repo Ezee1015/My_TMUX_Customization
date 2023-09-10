@@ -16,6 +16,8 @@ Mi configuración personal de tmux.
 * `PREFIX + r`        --> Recarga configuración de tmux
 * `PREFIX + :`        --> Accede a la linea de comandos de tmux
 * `PREFIX + l`        --> Limpia la terminal (como con `clear` o `Ctrl+l`)
+* `PREFIX + Ctrl + s` --> Guarda el estado de Tmux actual (autoguardado cada 15 minutos)
+* `PREFIX + Ctrl + r` --> Restaura el último estado de Tmux guardado
 
 ## PLUGINS
 * `PREFIX + I`        --> Instala Plugins
